@@ -56,3 +56,7 @@ When you move your mouse over the canvas, the tentacles will follow the cursor. 
 
 ## License
 This project is free to use for personal and educational purposes.
+
+## Screenshot
+<img width="1876" height="906" alt="Screenshot 2025-08-19 135518" src="https://github.com/user-attachments/assets/2d7e23aa-df07-4c4e-a5f2-991f342d08be" />
+
